@@ -4,8 +4,6 @@ accelerate
 appdirs
 loralib
 bitsandbytes
-black==23.11.0
-black[jupyter]
 datasets
 fire
 peft==0.9
@@ -46,6 +44,6 @@ webdataset
 ucimlrepo
 tabpfn
 gradio
-setuptools==69.5.1
-catboost==1.1.1
+setuptools=
+catboost
 nltk
