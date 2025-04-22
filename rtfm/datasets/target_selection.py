@@ -2,7 +2,7 @@ from collections import defaultdict
 import logging
 import re
 from abc import ABC, abstractmethod
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Sequence, Tuple, Union, Callable, Any, Literal, Callable
 
 from xgboost import XGBClassifier
